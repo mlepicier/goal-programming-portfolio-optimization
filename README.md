@@ -1,5 +1,7 @@
 # Goal-Programming Portfolio Optimization
 
+![readme-banner](https://user-images.githubusercontent.com/108199052/206231353-6b4b3cd4-a7b0-4d71-b060-3fc820b4edfa.png)
+
 ## Abstract:
 
 <p align="justify">This project consists of using multi-objective goal-programming non-linear optimization technics to create stock portfolio maximizing valuation return while minimizing both volatility and unsystematic risk. This project was conducted from September 2022 to December 2022 as a student at <b>Ivey Business School</b>. Below are a few paragraphs to give you context about the project.</p> 
