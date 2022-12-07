@@ -1,6 +1,6 @@
 # Goal-Programming Portfolio Optimization
 
-![readme-banner](https://user-images.githubusercontent.com/108199052/206231353-6b4b3cd4-a7b0-4d71-b060-3fc820b4edfa.png)
+![readme-banner](https://user-images.githubusercontent.com/108199052/206316952-7d84c2d8-4ae6-4a72-b046-b722119d17de.jpg)
 
 ## Abstract:
 
